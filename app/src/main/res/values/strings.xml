@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RuntimePermissionsUtill</string>
+
+    <string-array name="permissions">
+        <item>CHOOSE PERMISSION</item>
+        <item>READ_CALENDAR</item>
+        <item>CAMERA</item>
+        <item>READ_CONTACTS</item>
+        <item>GET_ACCOUNTS</item>
+        <item>ACCESS_FINE_LOCATION</item>",
+        <item>RECORD_AUDIO</item>
+        <item>CALL_PHONE</item>
+        <item>READ_SMS</item>
+        <item>WRITE_EXTERNAL_STORAGE</item>
+
+
+    </string-array>
+
+</resources>
